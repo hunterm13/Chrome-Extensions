@@ -1,0 +1,9 @@
+{
+    "name": "Test Drawing Extension",
+    "description": "Messing with chrome extensions, aiming to enable drawing on screen",
+    "version": "0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "main.html"
+    }
+  }
